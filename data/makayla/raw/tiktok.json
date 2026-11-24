@@ -1,0 +1,407 @@
+{
+  "collected_at": "2026-11-24T11:19:58.807Z",
+  "platform": "tiktok",
+  "handle": "makaylasmuckerr",
+  "blocked": [
+    "Profile video grid: did not load logged out (list API requires request-signing hosts); used the creator embed instead."
+  ],
+  "profile": {
+    "followers": 224600,
+    "likes": 5400000,
+    "videos": 792,
+    "bio": "cooking👩🏼‍🍳 | clean living🫧 | wellness🍊\n📍Nashville\n✉️ makaylasmucker@gmail.com\nWeekly recipes + more ⬇️"
+  },
+  "videos": [
+    {
+      "id": "7586104254855679263",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7586104254855679263",
+      "platform": "tiktok",
+      "date": "2025-12-21T00:39:16.000Z",
+      "type": "video",
+      "caption": "come to work with me!👩🏼‍🍳🎄🫶🏼 #privatechef #christmasparty #vlog #nashville ",
+      "views": 10200000,
+      "likes": 1200000,
+      "comments": 1181,
+      "shares": 9645,
+      "saves": 39166,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [
+        "privatechef",
+        "christmasparty",
+        "vlog",
+        "nashville"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7566435635867733278",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7566435635867733278",
+      "platform": "tiktok",
+      "date": "2025-10-29T00:34:51.000Z",
+      "type": "video",
+      "caption": "Meal and ingredient prep this week! 👩🏼‍🍳🥬🍂 On the menu:  1. Grilled Chicken Thighs with roasted honey feta sweet potatoes and crispy kale 2. Grilled Chicken Thighs with rice, sautéed peppers and onions and cheese (for my husband’s lunch!)  3. Greek Chicken Meatballs (recipe is in my recipe highlight!) with quinoa, cucumber and herby lemon yogurt sauce 4. White Bean Lemon Kale Soup with chicken and @Kettle & Fire Shop chicken bone broth  I used my @Caraway Home Dutch oven (code MAKAYLASMUCKER10 to save👩🏼‍🍳) 5. Prepped celery to make fresh celery juice in the morning! My juicer is linked in my bio and you can use code MAKAYLA10 to save!🍏 #mealprep #asmrcooking #nashvillelifestyle #healthyliving #mealprepideas ",
+      "views": 3100000,
+      "likes": 366900,
+      "comments": 756,
+      "shares": 4127,
+      "saves": 45291,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [
+        "kettleandfire",
+        "carawayhome"
+      ],
+      "hashtags": [
+        "mealprep",
+        "asmrcooking",
+        "nashvillelifestyle",
+        "healthyliving",
+        "mealprepideas"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7547907872500239646",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7547907872500239646",
+      "platform": "tiktok",
+      "date": "2025-09-09T02:17:44.000Z",
+      "type": "video",
+      "caption": "Everything I meal prepped this week! 🥕🥒 Comment below if there’s a specific recipe you want to see and I’ll share the most requested one later this week in my Fall Recipe Series 🍂🫶🏼 #mealprep #cookwithme #mealprepideas #healthyeatingideas #wieiad  @Caraway Home @YAYA'S EVOO @Namawell @Publix @koalaeco @Pavoi Active @Kinders @Vitamix ",
+      "views": 994800,
+      "likes": 95200,
+      "comments": 282,
+      "shares": 866,
+      "saves": 9144,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [
+        "carawayhome",
+        "yayasevoo",
+        "namawell",
+        "publixsupermarkets",
+        "koalaeco",
+        "pavoiactive",
+        "kindersseasonings",
+        "vitamix"
+      ],
+      "hashtags": [
+        "mealprep",
+        "cookwithme",
+        "mealprepideas",
+        "healthyeatingideas",
+        "wieiad"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7711562286560840973",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7711562286560840973",
+      "platform": "tiktok",
+      "date": "2026-11-24T02:40:26.000Z",
+      "type": "video",
+      "caption": "first day on our own!🥹 Play gym with the mat is from @lovevery ! #firsttimemom #vlog #spendthedaywithme #newborn ",
+      "views": 14200,
+      "likes": 1860,
+      "comments": 21,
+      "shares": 12,
+      "saves": 40,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [
+        "firsttimemom",
+        "vlog",
+        "spendthedaywithme",
+        "newborn"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7711178929268198686",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7711178929268198686",
+      "platform": "tiktok",
+      "date": "2026-11-23T01:52:49.000Z",
+      "type": "video",
+      "caption": "Slower kind of Sunday reset 🥹☁️🧺🫧 #sundayreset #relateable ",
+      "views": 9412,
+      "likes": 1221,
+      "comments": 12,
+      "shares": 12,
+      "saves": 29,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [
+        "sundayreset",
+        "relateable"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7710811722512174367",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7710811722512174367",
+      "platform": "tiktok",
+      "date": "2026-11-22T02:07:51.000Z",
+      "type": "video",
+      "caption": "Everything o actually used in my hospital bags! #forsttimemom #hospitalbags ",
+      "views": 16800,
+      "likes": 1659,
+      "comments": 13,
+      "shares": 4,
+      "saves": 146,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [
+        "forsttimemom",
+        "hospitalbags"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7710021657385094414",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7710021657385094414",
+      "platform": "tiktok",
+      "date": "2026-11-19T23:01:57.000Z",
+      "type": "video",
+      "caption": "a night in our life🥹💤🫶🏼 I missed filming these vlogs! We’re still recovering and learning our new routines, but life is so much better with him🥲 #nightvlog #newborn #firsttimemom #nightinmylife ",
+      "views": 41000,
+      "likes": 4238,
+      "comments": 58,
+      "shares": 11,
+      "saves": 98,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [
+        "nightvlog",
+        "newborn",
+        "firsttimemom",
+        "nightinmylife"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7706303016772701470",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7706303016772701470",
+      "platform": "tiktok",
+      "date": "2026-11-09T22:31:49.000Z",
+      "type": "photo",
+      "caption": "Oliver James Smucker joined us a week ago and we have been soaking in every second with him!🫶🏼",
+      "views": 23100,
+      "likes": 3035,
+      "comments": 133,
+      "shares": 8,
+      "saves": 35,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7702576601040473375",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7702576601040473375",
+      "platform": "tiktok",
+      "date": "2026-10-30T21:31:22.000Z",
+      "type": "photo",
+      "caption": "Soaking in these slow mornings before baby boy gets here!  #morningroutine #40weekspregnant ",
+      "views": 15300,
+      "likes": 776,
+      "comments": 10,
+      "shares": 0,
+      "saves": 35,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [
+        "morningroutine",
+        "40weekspregnant"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7701902604883791135",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7701902604883791135",
+      "platform": "tiktok",
+      "date": "2026-10-29T01:55:49.000Z",
+      "type": "video",
+      "caption": "Soaking in these slow relaxing evenings at home 🍂🫶🏼 #nightvlog #nightinmylife #40weekspregnant ",
+      "views": 136400,
+      "likes": 14200,
+      "comments": 143,
+      "shares": 78,
+      "saves": 460,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [
+        "nightvlog",
+        "nightinmylife",
+        "40weekspregnant"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7700000355437890846",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7700000355437890846",
+      "platform": "tiktok",
+      "date": "2026-10-23T22:54:15.000Z",
+      "type": "photo",
+      "caption": "Probably (definitely) overpacked but at least we’re prepared!! Feels so crazy to have these ready to go at any moment now🥹 You can find links to everything on my ShopMy! 🤎 #hospitalbags #packwithme #pregnancy #firsttimemom ",
+      "views": 26200,
+      "likes": 1313,
+      "comments": 8,
+      "shares": 38,
+      "saves": 706,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [
+        "hospitalbags",
+        "packwithme",
+        "pregnancy",
+        "firsttimemom"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7699675439811398942",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7699675439811398942",
+      "platform": "tiktok",
+      "date": "2026-10-23T01:53:17.000Z",
+      "type": "video",
+      "caption": "a typical night in my life!  Our nights are going to look so different really soon so I’m soaking up these slow evenings🥹 #nightinmylife #vlog #39weekspregnant ",
+      "views": 65500,
+      "likes": 6845,
+      "comments": 34,
+      "shares": 29,
+      "saves": 209,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [
+        "nightinmylife",
+        "vlog",
+        "39weekspregnant"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    },
+    {
+      "id": "7699323736369007903",
+      "url": "https://www.tiktok.com/@makaylasmuckerr/video/7699323736369007903",
+      "platform": "tiktok",
+      "date": "2026-10-22T03:08:40.000Z",
+      "type": "photo",
+      "caption": "Third trimester!  Plus lots of water of course💦  #wieiad #thirdtrimester #pregnancy #pregnancycravings ",
+      "views": 15600,
+      "likes": 701,
+      "comments": 8,
+      "shares": 7,
+      "saves": 79,
+      "is_ad": false,
+      "paid_partnership_label": false,
+      "mentions": [],
+      "hashtags": [
+        "wieiad",
+        "thirdtrimester",
+        "pregnancy",
+        "pregnancycravings"
+      ],
+      "anchors": [],
+      "top_comments": null,
+      "missing_fields": [
+        "top_comments (login prompt)",
+        "reach",
+        "link clicks",
+        "watch time"
+      ]
+    }
+  ]
+}
