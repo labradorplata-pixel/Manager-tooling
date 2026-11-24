@@ -1,34 +1,112 @@
 {
-  "collected_at": "2026-11-24T11:24:05.369Z",
+  "collected_at": "2026-11-24T11:29:10.842Z",
   "platform": "instagram",
   "handle": "makaylasmucker",
-  "blocked": [],
+  "blocked": [
+    "No post links visible on the logged-out profile page.",
+    "Some post pages showed only a login wall (see login_wall on records).",
+    "Views/plays, reach, saves, shares: not shown to logged-out visitors. Only ~10-15 top comments per post are visible; the rest need login."
+  ],
   "profile": {
-    "followers_text": "218K",
+    "followers_text": null,
     "posts_text": null,
-    "visible_text_head": "Log In\nSign Up\nmakaylasmucker\n218K followers\n2,391 following\nMakayla Smucker\ncooking👩🏼‍🍳 | clean living🫧 | wellness🍊\n📍Nashville\n✉️ makaylasmucker@gmail.com\nWeekly recipes + more ⬇️\nbio.site/makaylasmucker\nOli\nOCT LINKS\nSEPT LINKS\nRECIPES\nAUG LINKS\nJULY LINKS\nFEB LINKS\nJAN LINKS\nlover\nrecipes!\nShow more posts from makaylasmucker\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTe"
+    "visible_text_head": "See everyday moments from your close friends.\nLog into Instagram\nMobile number, username or email\nPassword\nLog in\nForgot password?\nLog in with Facebook\nCreate new account\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglis"
   },
   "posts": [
+    {
+      "id": "DeK-0VQJDgK",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DeK-0VQJDgK/",
+      "http_status": 200,
+      "date": "2026-10-06T23:46:03.000Z",
+      "type": "reel",
+      "caption": "Ocean Blue Juice Shots 🌊\n\n1 Pineapple\n3 Green apples\n2 inch piece of Ginger\n1 Lemon\n1 Lime\n16 oz coconut water \n1-2 tsp blue spirulina powder \n\nRemove the skin from the pineapple, lemon and lime and core the apples, then juice along with the ginger! \nTo the fresh juice, add the coconut water and spirulina powder and whisk together until combined! \nThis recipe makes about 50oz of juice, or 25 2oz shots🌊\n\nThe mini juice bottles are linked on my Amazon store under “Sea You Soon Baby Shower” along with everything else I used to prep for the event! \n\nMy juicer is a @namawell J2, it’s linked in my bio and you can use code MAKAYLA10 to save🫶🏼\n\n#juicerecipes #babyshower #pregnant",
+      "likes": 3818,
+      "comments": 15,
+      "views": null,
+      "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "haleymercadosmith",
+          "age": "6w",
+          "text": "So yum!!"
+        },
+        {
+          "author": "wildandrawjuice",
+          "age": "6w",
+          "text": "🔥🔥"
+        }
+      ],
+      "login_wall": false,
+      "missing_fields": [
+        "views",
+        "reach",
+        "saves",
+        "shares",
+        "comments beyond the ~12 shown logged out"
+      ]
+    },
     {
       "id": "DgG2Me5SmYI",
       "platform": "instagram",
       "url": "https://www.instagram.com/p/DgG2Me5SmYI/",
       "http_status": 200,
-      "date": null,
+      "date": "2026-11-24T02:25:20.000Z",
       "type": "reel",
       "caption": "first day on our own!🥹\n\nPlay gym with the mat is from @lovevery !\n#firsttimemom #vlog #spendthedaywithme #newborn",
-      "likes": 1291,
+      "likes": 1297,
       "comments": 37,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "chrissy840308",
+          "age": "58m",
+          "text": "😍I love this"
+        },
+        {
+          "author": "asoulsupper",
+          "age": "2h",
+          "text": "Totally nailing it !! And filmed the whole first day! You will love every single video you make! He is so scrummy! Well done with all those contact naps too! Baby’s always just want their mamas"
+        },
+        {
+          "author": "nikkislife15",
+          "age": "7h",
+          "text": "outfit details plx ty."
+        },
+        {
+          "author": "_shahnaz1965_",
+          "age": "7h",
+          "text": "❤️❤️❤️❤️loveyou"
+        },
+        {
+          "author": "brookechickillo",
+          "age": "7h",
+          "text": "You’re a good momma!!"
+        },
+        {
+          "author": "molly.butter",
+          "age": "7h",
+          "text": "my first solo day is coming up and I’m nervous!"
+        },
+        {
+          "author": "haleymercadosmith",
+          "age": "7h",
+          "text": "Precious!!"
+        },
+        {
+          "author": "ambnicwil",
+          "age": "8h",
+          "text": "Do you have a link for this set?!"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
       ]
     },
     {
@@ -36,21 +114,62 @@
       "platform": "instagram",
       "url": "https://www.instagram.com/p/DgEO4zmyakM/",
       "http_status": 200,
-      "date": null,
+      "date": "2026-11-23T01:46:27.000Z",
       "type": "reel",
       "caption": "Slower kind of Sunday reset🥹☁️🧺🫧\n\n#sundayreset #relateable",
       "likes": 1059,
       "comments": 9,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "jae_harris21",
+          "age": "17h",
+          "text": "🥹🥹"
+        },
+        {
+          "author": "ecline_eats",
+          "age": "20h",
+          "text": "he is presh"
+        },
+        {
+          "author": "amatullahheuvel_",
+          "age": "1d",
+          "text": "Cutie pie😍😍"
+        },
+        {
+          "author": "reallyorganizedruth",
+          "age": "1d",
+          "text": "The sweetest 😍"
+        },
+        {
+          "author": "ange_elliott88",
+          "age": "1d",
+          "text": "So cute! 🩵🧸"
+        },
+        {
+          "author": "sartorial___la",
+          "age": "1d",
+          "text": "So sweet 🙌"
+        },
+        {
+          "author": "katie_smucker",
+          "age": "1d",
+          "text": "So sweet🥹🥹"
+        },
+        {
+          "author": "mocktailgirlie",
+          "age": "1d",
+          "text": "🥹🥹🥹"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
       ]
     },
     {
@@ -58,43 +177,32 @@
       "platform": "instagram",
       "url": "https://www.instagram.com/p/DgBrS_XSbe1/",
       "http_status": 200,
-      "date": null,
-      "type": "post",
-      "caption": "Everything I actually used in my hospital bags!\n#firsttimemom #hospitalbags",
+      "date": "2026-11-22T01:57:00.000Z",
+      "type": "reel",
+      "caption": "Everything I actually used in my hospital bags! \n#firsttimemom #hospitalbags",
       "likes": 1300,
       "comments": 10,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "roombags.official",
+          "age": "1d",
+          "text": "@victoria.danis An unplanned C-section would throw any packing plan off"
+        },
+        {
+          "author": "roombags.official",
+          "age": "1d",
+          "text": "We need more actually used lists, not just packing lists"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
-      ]
-    },
-    {
-      "id": "Df-4iWTFpMa",
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/Df-4iWTFpMa/",
-      "http_status": 200,
-      "date": null,
-      "type": "post",
-      "caption": "Lil family coffee date🫶🏼",
-      "likes": 1933,
-      "comments": 46,
-      "views": null,
-      "top_comments": null,
-      "paid_partnership_label": false,
-      "missing_fields": [
-        "views",
-        "top_comments (embed shows count only)",
-        "reach",
-        "saves",
-        "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
       ]
     },
     {
@@ -102,21 +210,82 @@
       "platform": "instagram",
       "url": "https://www.instagram.com/p/Df8MXUAoXnb/",
       "http_status": 200,
-      "date": null,
-      "type": "post",
+      "date": "2026-11-19T22:55:30.000Z",
+      "type": "reel",
       "caption": "a night in our life🥹💤🫶🏼\nI missed filming these vlogs! We’re still recovering and learning our new routines, but life is so much better with him🥲\n\n#nightvlog #newborn #firsttimemom #nightinmylife",
       "likes": 2566,
       "comments": 39,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "j_prunean",
+          "age": "2d",
+          "text": "Great job Mama! Number one thing right now is to heal your body so you can take care of your baby. It takes a long time for this to happen and even longer if you don’t prioritize rest which is hard to do as women especially if you are a busy body. Enjoy this season even if it’s tough. It’ll be gone before you know it. Loving this for you"
+        },
+        {
+          "author": "becca.imhof",
+          "age": "3d",
+          "text": "Is that a cover specifically for that changing pad or no? I have the same pad and can’t find a cover for it"
+        },
+        {
+          "author": "katekellyphotographs",
+          "age": "3d",
+          "text": "🤍🤍🤍🤍🤍"
+        },
+        {
+          "author": "emmajwassink",
+          "age": "3d",
+          "text": "Love this sm 🥹🤍"
+        },
+        {
+          "author": "beautify11jackie",
+          "age": "3d",
+          "text": "🙌🙌🙌🙌"
+        },
+        {
+          "author": "farah.hasanpour",
+          "age": "4d",
+          "text": "❤️❤️❤️😍😍😍"
+        },
+        {
+          "author": "tilly_tots_and_millie_moo",
+          "age": "4d",
+          "text": "It takes 6 weeks to recover from a c-section, been there..it takes time"
+        },
+        {
+          "author": "lifewithlexirae",
+          "age": "4d",
+          "text": "Those new routines take time, but the love makes every adjustment worth it! 🥹❤️"
+        },
+        {
+          "author": "jae_harris21",
+          "age": "4d",
+          "text": "Mick you’re such an amazing mommy!!!"
+        },
+        {
+          "author": "ramsdellbevins",
+          "age": "4d",
+          "text": "My Grandson’s name is Oliver, and I call him Ollie bug💙"
+        },
+        {
+          "author": "clemencexchezmarcus",
+          "age": "4d",
+          "text": "Hi, from where is your sofa ? ❤️"
+        },
+        {
+          "author": "shei76550",
+          "age": "4d",
+          "text": "@makaylasmucker are you wearing a post Parton belly wrap? Can you please share which you are using? I’m 2.5 weeks pp on my third c-section and have yet to find a good one! Thank you and congrats on your sweet baby 🩵"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
       ]
     },
     {
@@ -124,21 +293,82 @@
       "platform": "instagram",
       "url": "https://www.instagram.com/p/Dfuqv8KDvLb/",
       "http_status": 200,
-      "date": null,
-      "type": "post",
-      "caption": "Checking in from the bubble 🫧👶🏼🤍\n\nAfter an unplanned c-section, I’ve needed more time to rest and recover than I was expecting.\nMy mom and mother in law have been here helping take care of us as I heal and we’ve just been soaking in every second with Oli🥲\nI’m excited to get back to more regular content soon, but loving these slow days for now! 🤍",
+      "date": "2026-11-14T16:46:35.000Z",
+      "type": "carousel",
+      "caption": "Checking in from the bubble 🫧👶🏼🤍\n\nAfter an unplanned c-section, I’ve needed more time to rest and recover than I was expecting. \nMy mom and mother in law have been here helping take care of us as I heal and we’ve just been soaking in every second with Oli🥲 \nI’m excited to get back to more regular content soon, but loving these slow days for now! 🤍",
       "likes": 7644,
       "comments": 164,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "monica.enebo",
+          "age": "1d",
+          "text": "So sweet!!"
+        },
+        {
+          "author": "bougiescentske",
+          "age": "3d",
+          "text": "Awww congratulations ❤️"
+        },
+        {
+          "author": "klavushka.os",
+          "age": "3d",
+          "text": "Adorable 🥰"
+        },
+        {
+          "author": "shopbaeo",
+          "age": "5d",
+          "text": "Congrats mama! ENJOY the bubble 🩵"
+        },
+        {
+          "author": "dejholden",
+          "age": "5d",
+          "text": "Congratulations mama. we’ll be here ready for your content wherever you’re ready to come back. Enjoy your new baby 🫶🏽"
+        },
+        {
+          "author": "cafely",
+          "age": "6d",
+          "text": "that golden light with Oli tucked against you looks like a photo you’ll treasure forever ☀️👶"
+        },
+        {
+          "author": "mylifeasblessing_",
+          "age": "6d",
+          "text": "Congratulations to you and your beautiful family. 😍"
+        },
+        {
+          "author": "laurenkron_",
+          "age": "6d",
+          "text": "Congratulations 🩵"
+        },
+        {
+          "author": "s63701",
+          "age": "6d",
+          "text": "Wishing you the most cozy snuggles of all time!! Congratulations!! 💛💛"
+        },
+        {
+          "author": "beheldwellness",
+          "age": "6d",
+          "text": "SO proud of you, needing rest after birth (especially a c-section) is crucial! Sending love 🤍"
+        },
+        {
+          "author": "mamma_kath",
+          "age": "6d",
+          "text": "Beautiful"
+        },
+        {
+          "author": "attack_fox",
+          "age": "1w",
+          "text": "Congratulations!! Take all the time you need, this is a special time! 💕"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
       ]
     },
     {
@@ -146,21 +376,82 @@
       "platform": "instagram",
       "url": "https://www.instagram.com/p/DfbFllYlp9a/",
       "http_status": 200,
-      "date": null,
-      "type": "post",
+      "date": "2026-11-07T02:16:16.000Z",
+      "type": "carousel",
       "caption": "He’s here 🤍\n\nOliver James Smucker joined us on Sunday night, November 1st and we are soaking in every second with him! He’s healthy and we’re feeling like the luckiest parents in the world🫶🏼",
       "likes": 8090,
       "comments": 421,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "lovelybabyprint",
+          "age": "1w",
+          "text": "😍"
+        },
+        {
+          "author": "sami.dawsonhines",
+          "age": "1w",
+          "text": "Congratulations beautiful mama!! 🩵🩵🩵"
+        },
+        {
+          "author": "kimg1950",
+          "age": "1w",
+          "text": "miss you so much. so happy for you"
+        },
+        {
+          "author": "cafely",
+          "age": "1w",
+          "text": "welcome to the world, Oliver James, congratulations to your whole family 🥹🤍"
+        },
+        {
+          "author": "captainmortgage44",
+          "age": "2w",
+          "text": "Congratulations! He’s perfect!"
+        },
+        {
+          "author": "delatraile",
+          "age": "2w",
+          "text": "Congratulations to you and your husband. So sweet!!"
+        },
+        {
+          "author": "newmomschool_nashville",
+          "age": "2w",
+          "text": "Oh he’s absolutely perfect 🥹💙 congrats mama!!"
+        },
+        {
+          "author": "maeband",
+          "age": "2w",
+          "text": "Congratulations❤️"
+        },
+        {
+          "author": "msdulier20",
+          "age": "2w",
+          "text": "Congratulations"
+        },
+        {
+          "author": "jssmadgess",
+          "age": "2w",
+          "text": "How sweet is this 🥹❤️"
+        },
+        {
+          "author": "_hazel.days",
+          "age": "2w",
+          "text": "Congratulations! Wishing your family lots of health and happiness! 😍"
+        },
+        {
+          "author": "amandaelings",
+          "age": "2w",
+          "text": "He’s so precious! Congrats 🥰"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
       ]
     },
     {
@@ -168,21 +459,62 @@
       "platform": "instagram",
       "url": "https://www.instagram.com/p/DfIi_GPiWVW/",
       "http_status": 200,
-      "date": null,
-      "type": "post",
+      "date": "2026-10-30T21:27:35.000Z",
+      "type": "carousel",
       "caption": "Slow October mornings 🍂🤎\n\n#morningroutine #40weekspregnant",
       "likes": 1437,
       "comments": 33,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "lexx_perron",
+          "age": "1w",
+          "text": "Where is that set from??"
+        },
+        {
+          "author": "karo200390",
+          "age": "1w",
+          "text": "😍"
+        },
+        {
+          "author": "emm.milller",
+          "age": "1w",
+          "text": "Omg share your bed-making techniques please 😭😭😭"
+        },
+        {
+          "author": "koalaeco",
+          "age": "2w",
+          "text": "Love ❤️"
+        },
+        {
+          "author": "mariscolosimo",
+          "age": "2w",
+          "text": "Good luck you look great and one more question. What’s the red drink you drink in the morning?"
+        },
+        {
+          "author": "byashleymarie",
+          "age": "2w",
+          "text": "❤️❤️❤️"
+        },
+        {
+          "author": "angelicaturiace",
+          "age": "2w",
+          "text": "😍😍😍"
+        },
+        {
+          "author": "cafely",
+          "age": "2w",
+          "text": "“slow October mornings” with the sun coming in is my favorite kind of routine, coffee in hand ☕🍂"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
       ]
     },
     {
@@ -190,21 +522,67 @@
       "platform": "instagram",
       "url": "https://www.instagram.com/p/DfD3TnRsiFI/",
       "http_status": 200,
-      "date": null,
-      "type": "post",
+      "date": "2026-10-29T01:52:24.000Z",
+      "type": "reel",
       "caption": "soaking in these slow relaxing evenings at home 🫶🏼🍂\n\n#nightvlog #nightinmylife #40weekspregnant",
       "likes": 2418,
       "comments": 53,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "kandigirlmanifesting",
+          "age": "4d",
+          "text": "I went from a 6.5 to 7.5 in shoes after having my son ..."
+        },
+        {
+          "author": "karo200390",
+          "age": "1w",
+          "text": "😍😍"
+        },
+        {
+          "author": "mallian09",
+          "age": "2w",
+          "text": "What brand of raspberry tealeaf do you use? Please and thank you."
+        },
+        {
+          "author": "puiu_mamei",
+          "age": "2w",
+          "text": "🤍"
+        },
+        {
+          "author": "anna.cabana",
+          "age": "3w",
+          "text": "Recipie plz"
+        },
+        {
+          "author": "positiveen3rgy2",
+          "age": "3w",
+          "text": "my feet got bigger and stayed bigger"
+        },
+        {
+          "author": "caraway_home",
+          "age": "3w",
+          "text": "We love being a part of your routine ✨"
+        },
+        {
+          "author": "izzythepizzy",
+          "age": "3w",
+          "text": "Love seeing you support Lola Blankets and its Mormon owners! Thank you for showing the LDS community some love."
+        },
+        {
+          "author": "deissofficial",
+          "age": "3w",
+          "text": "So meditating to watch 😍"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
       ]
     },
     {
@@ -212,21 +590,71 @@
       "platform": "instagram",
       "url": "https://www.instagram.com/p/De5FJ8uyCc2/",
       "http_status": 200,
-      "date": null,
+      "date": "2026-10-24T21:25:10.000Z",
       "type": "reel",
-      "caption": "Homemade trail mix!\n\nMixed nuts\nwalnuts\nroasted pumpkin seeds\ndark chocolate\nPretzles\n\nI measured with my heart but this is so good to snack on! Taking a bag of this with me to the hospital 🙂‍↕️",
+      "caption": "Homemade trail mix! \n\nMixed nuts\nwalnuts\nroasted pumpkin seeds\ndark chocolate \nPretzles \n\nI measured with my heart but this is so good to snack on! Taking a bag of this with me to the hospital 🙂‍↕️",
       "likes": 772,
-      "comments": null,
+      "comments": 4,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "katekellyphotographs",
+          "age": "4w",
+          "text": "Delicious and definitely making!!"
+        },
+        {
+          "author": "nourishedmornings",
+          "age": "4w",
+          "text": "Yummy😍"
+        },
+        {
+          "author": "elisabredda_",
+          "age": "4w",
+          "text": "Great idea 🤗"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
+      ]
+    },
+    {
+      "id": "Df-4iWTFpMa",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/Df-4iWTFpMa/",
+      "http_status": 200,
+      "source": "post_page",
+      "date": "2026-11-20T23:54:53.000Z",
+      "type": "carousel",
+      "caption": "Lil family coffee date🫶🏼",
+      "likes": 1933,
+      "comments": 46,
+      "views": null,
+      "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "evonipaige",
+          "age": "1d",
+          "text": "So so cute 🥹"
+        },
+        {
+          "author": "routinelyrachael",
+          "age": "1d",
+          "text": "So sweet!"
+        }
+      ],
+      "login_wall": false,
+      "missing_fields": [
+        "views",
+        "reach",
+        "saves",
+        "shares",
+        "comments beyond the ~12 shown logged out"
       ]
     },
     {
@@ -234,21 +662,83 @@
       "platform": "instagram",
       "url": "https://www.instagram.com/p/De2qY3fFhly/",
       "http_status": 200,
-      "date": null,
-      "type": "post",
+      "source": "post_page",
+      "date": "2026-10-23T22:45:57.000Z",
+      "type": "carousel",
       "caption": "Probably (definitely) overpacked but at least we’re prepared!! Feels so crazy to have these ready to go at any moment now🥹\nIf you want links to everything, you can comment “bags” or find everything on my ShopMy! 🤎\n\n#hospitalbags #packwithme #pregnancy #firsttimemom",
       "likes": 1469,
       "comments": 156,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "elo_motiv56",
+          "age": "1w",
+          "text": "Bags"
+        },
+        {
+          "author": "officefashioninspo",
+          "age": "1w",
+          "text": "Bags"
+        },
+        {
+          "author": "brianarae1987",
+          "age": "1w",
+          "text": "BAGS please and thank you ❤️"
+        },
+        {
+          "author": "life__of__lex",
+          "age": "1w",
+          "text": "Bags"
+        },
+        {
+          "author": "jordan.benedetto",
+          "age": "1w",
+          "text": "Bags"
+        },
+        {
+          "author": "brookellina",
+          "age": "1w",
+          "text": "Bags"
+        },
+        {
+          "author": "awoserwaa",
+          "age": "1w",
+          "text": "Bag"
+        },
+        {
+          "author": "yasminetanres",
+          "age": "1w",
+          "text": "I could be guilty of this 😅"
+        },
+        {
+          "author": "jodi.s.taylor",
+          "age": "1w",
+          "text": "Bags"
+        },
+        {
+          "author": "nenahbonarius",
+          "age": "1w",
+          "text": "Bags"
+        },
+        {
+          "author": "srividhyanandan",
+          "age": "2w",
+          "text": "Bags"
+        },
+        {
+          "author": "felicia_nicole64",
+          "age": "2w",
+          "text": "Bags"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
       ]
     },
     {
@@ -256,48 +746,83 @@
       "platform": "instagram",
       "url": "https://www.instagram.com/p/De0Z7JuS4zF/",
       "http_status": 200,
-      "date": null,
-      "type": "post",
-      "caption": "a typical night in my life!\nOur nights are going to look so different really soon so I’m soaking up these slow evenings🥹\n\n#nightinmylife #vlog #39weekspregnant",
+      "source": "post_page",
+      "date": "2026-10-23T01:48:08.000Z",
+      "type": "reel",
+      "caption": "a typical night in my life! \nOur nights are going to look so different really soon so I’m soaking up these slow evenings🥹\n\n#nightinmylife #vlog #39weekspregnant",
       "likes": 2562,
       "comments": 20,
       "views": null,
-      "top_comments": null,
       "paid_partnership_label": false,
+      "top_comments": [
+        {
+          "author": "kate.butt",
+          "age": "1d",
+          "text": "Where is your nursery dresser from"
+        },
+        {
+          "author": "karo200390",
+          "age": "1w",
+          "text": "😍😍😍"
+        },
+        {
+          "author": "lorimc2145",
+          "age": "2w",
+          "text": "Almost there! Our daughter just had her baby this am!!!!😍😍😍"
+        },
+        {
+          "author": "haleymercadosmith",
+          "age": "4w",
+          "text": "Getting so close!"
+        },
+        {
+          "author": "kpaton_",
+          "age": "4w",
+          "text": "Where did you get that rug in your living room"
+        },
+        {
+          "author": "lauren.e.turner_",
+          "age": "4w",
+          "text": "What baby lounger is that?!"
+        },
+        {
+          "author": "s63701",
+          "age": "4w",
+          "text": "That dinner looks amazing!"
+        },
+        {
+          "author": "liliia_4093",
+          "age": "4w",
+          "text": "😍😍😍😍😍😍"
+        },
+        {
+          "author": "nourishedmornings",
+          "age": "4w",
+          "text": "Love it😍"
+        },
+        {
+          "author": "missstephmarie",
+          "age": "4w",
+          "text": "Can you share that rattan like window shade?"
+        },
+        {
+          "author": "karinad.carrillo",
+          "age": "4w",
+          "text": "I love how you still active even when you’re just a few days to welcoming your baby 😍👏🙌"
+        }
+      ],
+      "login_wall": false,
       "missing_fields": [
         "views",
-        "top_comments (embed shows count only)",
         "reach",
         "saves",
         "shares",
-        "date"
-      ]
-    },
-    {
-      "id": "DeK-0VQJDgK",
-      "platform": "instagram",
-      "url": "https://www.instagram.com/p/DeK-0VQJDgK/",
-      "http_status": 200,
-      "date": null,
-      "type": "reel",
-      "caption": "Ocean Blue Juice Shots 🌊\n\n1 Pineapple\n3 Green apples\n2 inch piece of Ginger\n1 Lemon\n1 Lime\n16 oz coconut water\n1-2 tsp blue spirulina powder\n\nRemove the skin from the pineapple, lemon and lime and core the apples, then juice along with the ginger!\nTo the fresh juice, add the coconut water and spirulina powder and whisk together until combined!\nThis recipe makes about 50oz of juice, or 25 2oz shots🌊\n\nThe mini juice bottles are linked on my Amazon store under “Sea You Soon Baby Shower” along with everything else I used to prep for the event!\n\nMy juicer is a @namawell J2, it’s linked in my bio and you can use code MAKAYLA10 to save🫶🏼\n\n#juicerecipes #babyshower #pregnant",
-      "likes": 3818,
-      "comments": 15,
-      "views": null,
-      "top_comments": null,
-      "paid_partnership_label": false,
-      "missing_fields": [
-        "views",
-        "top_comments (embed shows count only)",
-        "reach",
-        "saves",
-        "shares",
-        "date"
+        "comments beyond the ~12 shown logged out"
       ]
     }
   ],
   "profile_api_status_counts": {
-    "200": 8
+    "200": 40
   },
   "timeline_payloads": 0
 }

@@ -1,0 +1,1449 @@
+{
+  "instagram:DgG2Me5SmYI": {
+    "deal": {
+      "label": "gifted/affiliate",
+      "confidence": "medium",
+      "brands": [
+        "Lovevery"
+      ],
+      "reason": "Tags @lovevery for the play gym, no disclosure or code — reads as gifted/PR product."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "First solo day with newborn."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 2,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      },
+      {
+        "i": 3,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 4,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 5,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 6,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 7,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      }
+    ]
+  },
+  "instagram:DgEO4zmyakM": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "reset",
+      "reason": "Captioned/tagged #sundayreset (baby-centric, but framed as her reset series)."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 2,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 3,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 4,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 5,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 6,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 7,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      }
+    ]
+  },
+  "instagram:DgBrS_XSbe1": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand tags or links in caption, though a hospital-bag list is a natural affiliate format."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Postpartum hospital-bag review."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "instagram:Df-4iWTFpMa": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Family outing with newborn."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      }
+    ]
+  },
+  "instagram:Df8MXUAoXnb": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Night routine reframed around the newborn (#newborn #firsttimemom)."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      },
+      {
+        "i": 2,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 3,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 4,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 5,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 6,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 7,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 8,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 9,
+        "sentiment": "positive",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 10,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      },
+      {
+        "i": 11,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      }
+    ]
+  },
+  "instagram:Dfuqv8KDvLb": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Postpartum / c-section recovery update."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 2,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 3,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 4,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 5,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 6,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 7,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 8,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 9,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 10,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 11,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      }
+    ]
+  },
+  "instagram:DfbFllYlp9a": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Birth announcement."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 2,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 3,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 4,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 5,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 6,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 7,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 8,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 9,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 10,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 11,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      }
+    ]
+  },
+  "instagram:DfIi_GPiWVW": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "wellness",
+      "reason": "Morning routine (pregnancy is context, not focus)."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 2,
+        "sentiment": "positive",
+        "tags": [
+          "recipe_request",
+          "question"
+        ]
+      },
+      {
+        "i": 3,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 4,
+        "sentiment": "positive",
+        "tags": [
+          "praise",
+          "question"
+        ]
+      },
+      {
+        "i": 5,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 6,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 7,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "instagram:DfD3TnRsiFI": {
+    "deal": {
+      "label": "gifted/affiliate",
+      "confidence": "low",
+      "brands": [
+        "Caraway",
+        "Lola Blankets"
+      ],
+      "reason": "Caption has no tags, but @caraway_home (known partner) commented 'we love being part of your routine' and a commenter credits Lola Blankets — likely product placement; comments are only a tiebreaker."
+    },
+    "pillar": {
+      "label": "wellness",
+      "reason": "Night routine vlog (pregnancy context)."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 2,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      },
+      {
+        "i": 3,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 4,
+        "sentiment": "neutral",
+        "tags": [
+          "recipe_request"
+        ]
+      },
+      {
+        "i": 5,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 6,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 7,
+        "sentiment": "positive",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 8,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      }
+    ]
+  },
+  "instagram:De5FJ8uyCc2": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe (homemade trail mix)."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 2,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      }
+    ]
+  },
+  "instagram:De2qY3fFhly": {
+    "deal": {
+      "label": "gifted/affiliate",
+      "confidence": "high",
+      "brands": [
+        "ShopMy"
+      ],
+      "reason": "'Comment \"bags\" for links' + ShopMy — affiliate links via comment-to-DM."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Hospital-bag pack-with-me (pregnancy)."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent"
+        ]
+      },
+      {
+        "i": 2,
+        "sentiment": "positive",
+        "tags": [
+          "purchase_intent"
+        ]
+      },
+      {
+        "i": 3,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent"
+        ]
+      },
+      {
+        "i": 4,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent"
+        ]
+      },
+      {
+        "i": 5,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent"
+        ]
+      },
+      {
+        "i": 6,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent"
+        ]
+      },
+      {
+        "i": 7,
+        "sentiment": "positive",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 8,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent"
+        ]
+      },
+      {
+        "i": 9,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent"
+        ]
+      },
+      {
+        "i": 10,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent"
+        ]
+      },
+      {
+        "i": 11,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent"
+        ]
+      }
+    ]
+  },
+  "instagram:De0Z7JuS4zF": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "wellness",
+      "reason": "'Typical night in my life' routine vlog."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 2,
+        "sentiment": "positive",
+        "tags": [
+          "other"
+        ]
+      },
+      {
+        "i": 3,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 4,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      },
+      {
+        "i": 5,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      },
+      {
+        "i": 6,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 7,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 8,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 9,
+        "sentiment": "neutral",
+        "tags": [
+          "purchase_intent",
+          "question"
+        ]
+      },
+      {
+        "i": 10,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      }
+    ]
+  },
+  "instagram:DeK-0VQJDgK": {
+    "deal": {
+      "label": "gifted/affiliate",
+      "confidence": "high",
+      "brands": [
+        "Namawell",
+        "Amazon storefront"
+      ],
+      "reason": "Promo code MAKAYLA10 for @namawell juicer + Amazon store links; no paid-partnership label."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe (juice shots)."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "positive",
+        "tags": [
+          "praise"
+        ]
+      },
+      {
+        "i": 1,
+        "sentiment": "neutral",
+        "tags": [
+          "other"
+        ]
+      }
+    ]
+  },
+  "tiktok:7711562286560840973": {
+    "deal": {
+      "label": "gifted/affiliate",
+      "confidence": "medium",
+      "brands": [
+        "Lovevery"
+      ],
+      "reason": "Tags @lovevery play gym, no disclosure."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "First solo day with newborn."
+    },
+    "comments": []
+  },
+  "tiktok:7711178929268198686": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "reset",
+      "reason": "#sundayreset."
+    },
+    "comments": []
+  },
+  "tiktok:7710811722512174367": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand tag/link in caption."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Hospital-bag review."
+    },
+    "comments": []
+  },
+  "tiktok:7710021657385094414": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Newborn night vlog."
+    },
+    "comments": []
+  },
+  "tiktok:7706303016772701470": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Birth announcement."
+    },
+    "comments": []
+  },
+  "tiktok:7702576601040473375": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "wellness",
+      "reason": "Morning routine."
+    },
+    "comments": []
+  },
+  "tiktok:7701902604883791135": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "Same video as the IG night vlog where Caraway commented, but no caption signal on TikTok."
+    },
+    "pillar": {
+      "label": "wellness",
+      "reason": "Night routine vlog."
+    },
+    "comments": []
+  },
+  "tiktok:7700000355437890846": {
+    "deal": {
+      "label": "gifted/affiliate",
+      "confidence": "high",
+      "brands": [
+        "ShopMy"
+      ],
+      "reason": "'Links to everything on my ShopMy'."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Hospital-bag pack-with-me."
+    },
+    "comments": []
+  },
+  "tiktok:7699675439811398942": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "wellness",
+      "reason": "Night routine vlog."
+    },
+    "comments": []
+  },
+  "tiktok:7699323736369007903": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Third-trimester what-I-eat (#pregnancycravings)."
+    },
+    "comments": []
+  },
+  "tiktok:7586104254855679263": {
+    "deal": {
+      "label": "organic",
+      "confidence": "high",
+      "brands": [],
+      "reason": "No paid label, #ad, code, link cue or brand tag in caption."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Private-chef work vlog (pinned, Dec 2025)."
+    },
+    "comments": []
+  },
+  "tiktok:7566435635867733278": {
+    "deal": {
+      "label": "gifted/affiliate",
+      "confidence": "medium",
+      "brands": [
+        "Kettle & Fire",
+        "Caraway"
+      ],
+      "reason": "Tags @kettleandfire and @carawayhome product mentions, no disclosure visible."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Weekly meal prep (pinned, Oct 2025)."
+    },
+    "comments": []
+  },
+  "tiktok:7547907872500239646": {
+    "deal": {
+      "label": "gifted/affiliate",
+      "confidence": "medium",
+      "brands": [
+        "Caraway",
+        "Yaya's",
+        "Namawell",
+        "Kinder's",
+        "Vitamix",
+        "Koala Eco"
+      ],
+      "reason": "Tags 8 brands in caption, no disclosure visible."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Weekly meal prep (pinned, Sep 2025)."
+    },
+    "comments": []
+  },
+  "substack:224779301": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:224777314": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:223793320": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:223793281": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:223352050": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:223348894": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:222194184": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:217260329": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "positive",
+        "tags": [
+          "praise",
+          "recipe_request"
+        ]
+      }
+    ]
+  },
+  "substack:221347387": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:217567752": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:220582111": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Pregnancy / nesting / postpartum newsletter."
+    },
+    "comments": []
+  },
+  "substack:217265875": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:219340779": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Pregnancy / nesting / postpartum newsletter."
+    },
+    "comments": []
+  },
+  "substack:219338162": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:218361145": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "negative",
+        "tags": [
+          "recipe_request",
+          "question"
+        ]
+      }
+    ]
+  },
+  "substack:217386493": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:217259534": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:216028085": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "reset",
+      "reason": "Kitchen deep-clean / nesting guide."
+    },
+    "comments": []
+  },
+  "substack:216021416": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:214945607": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Pregnancy / nesting / postpartum newsletter."
+    },
+    "comments": []
+  },
+  "substack:214903076": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:213721539": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:213879869": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": []
+  },
+  "substack:212870791": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "mom",
+      "reason": "Pregnancy / nesting / postpartum newsletter."
+    },
+    "comments": []
+  },
+  "substack:212865910": {
+    "deal": {
+      "label": "organic",
+      "confidence": "medium",
+      "brands": [],
+      "reason": "No brand/affiliate cue in title or subtitle (body not checked; paid posts are paywalled)."
+    },
+    "pillar": {
+      "label": "cooking",
+      "reason": "Recipe newsletter."
+    },
+    "comments": [
+      {
+        "i": 0,
+        "sentiment": "neutral",
+        "tags": [
+          "recipe_request",
+          "question"
+        ]
+      }
+    ]
+  }
+}

@@ -23,7 +23,7 @@ def main(d, end=None):
         p["period"] = "week" if parse(p["date"]) > wk0 else "base" if parse(p["date"]) > base0 else "older"
     med = {pl: st.median([p["likes"] for p in posts if p["platform"] == pl and p.get("likes") is not None] or [1]) for pl in {p["platform"] for p in posts}}
     for p in posts: p["idx"] = (p["likes"] / med[p["platform"]]) if p.get("likes") is not None and med[p["platform"]] else None
-    out = []; M = {"window_start": win0.date().isoformat(), "week": [wk0.date().isoformat(), end.date().isoformat()], "base": [base0.date().isoformat(), wk0.date().isoformat()]}
+    out = []; M = {"window_start": (win0 + dt.timedelta(seconds=1)).date().isoformat(), "week": [(wk0 + dt.timedelta(seconds=1)).date().isoformat(), end.date().isoformat()], "base": [(base0 + dt.timedelta(seconds=1)).date().isoformat(), wk0.date().isoformat()]}
 
     out.append(f"### Headline: week {M['week'][0]}→{M['week'][1]} vs prior-4-week weekly average ({M['base'][0]}→{M['base'][1]})\n")
     out.append("| Platform | Metric | This week | Prior 4-wk avg/week | Δ |\n|---|---|---|---|---|")

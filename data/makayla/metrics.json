@@ -1,0 +1,220 @@
+{
+  "window_start": "2026-09-30",
+  "week": [
+    "2026-11-18",
+    "2026-11-24"
+  ],
+  "base": [
+    "2026-10-21",
+    "2026-11-17"
+  ],
+  "headline": {
+    "instagram.posts": {
+      "week": 5,
+      "base_avg": 1.75,
+      "delta": "+186%"
+    },
+    "instagram.likes": {
+      "week": 8155,
+      "base_avg": 6098.0,
+      "delta": "+34%"
+    },
+    "instagram.comments": {
+      "week": 141,
+      "base_avg": 212.75,
+      "delta": "-34%"
+    },
+    "instagram.likes/post": {
+      "week": 1631,
+      "base_avg": 3484.5714285714284,
+      "delta": "-53%"
+    },
+    "substack.posts": {
+      "week": 0,
+      "base_avg": 2.5,
+      "delta": "-100%"
+    },
+    "substack.likes": {
+      "week": 0,
+      "base_avg": 2.25,
+      "delta": "-100%"
+    },
+    "substack.comments": {
+      "week": 0,
+      "base_avg": 0.25,
+      "delta": "-100%"
+    },
+    "substack.likes/post": {
+      "week": null,
+      "base_avg": 0.9,
+      "delta": "n/a"
+    },
+    "tiktok.posts": {
+      "week": 4,
+      "base_avg": 1.5,
+      "delta": "+167%"
+    },
+    "tiktok.likes": {
+      "week": 8978,
+      "base_avg": 6717.5,
+      "delta": "+34%"
+    },
+    "tiktok.comments": {
+      "week": 104,
+      "base_avg": 84.0,
+      "delta": "+24%"
+    },
+    "tiktok.views": {
+      "week": 81412,
+      "base_avg": 70525.0,
+      "delta": "+15%"
+    },
+    "tiktok.likes/post": {
+      "week": 2244.5,
+      "base_avg": 4478.333333333333,
+      "delta": "-50%"
+    }
+  },
+  "by_pillar_social": {
+    "mom": {
+      "n": 13,
+      "idx": 1.5268322814323558,
+      "comments": 85.6923076923077,
+      "tt_views": 22816.666666666668
+    },
+    "wellness": {
+      "n": 6,
+      "idx": 2.62025483222872,
+      "comments": 48.833333333333336,
+      "tt_views": 72400
+    },
+    "reset": {
+      "n": 2,
+      "idx": 0.6209001110959691,
+      "comments": 10.5,
+      "tt_views": 9412
+    },
+    "cooking": {
+      "n": 2,
+      "idx": 1.1872736678737714,
+      "comments": 9.5,
+      "tt_views": null
+    }
+  },
+  "by_deal_social": {
+    "organic": {
+      "n": 17,
+      "idx": 1.9250784209002,
+      "comments": 68.05882352941177,
+      "tt_views": 40389
+    },
+    "gifted/affiliate": {
+      "n": 6,
+      "idx": 1.0767271757715036,
+      "comments": 48.333333333333336,
+      "tt_views": 20200
+    }
+  },
+  "by_pillar_substack": {
+    "cooking": {
+      "n": 13,
+      "idx": 0.8076923076923077,
+      "comments": 0.15384615384615385,
+      "tt_views": null
+    },
+    "mom": {
+      "n": 2,
+      "idx": 1.75,
+      "comments": 0,
+      "tt_views": null
+    }
+  },
+  "comments_crosstab": {
+    "mom \u00d7 organic": {
+      "n": 40,
+      "sentiment": {
+        "neutral": 9,
+        "positive": 31
+      },
+      "tags": {
+        "other": 7,
+        "praise": 30,
+        "purchase_intent": 3,
+        "question": 3
+      }
+    },
+    "mom \u00d7 gifted/affiliate": {
+      "n": 20,
+      "sentiment": {
+        "positive": 7,
+        "neutral": 13
+      },
+      "tags": {
+        "praise": 5,
+        "purchase_intent": 13,
+        "question": 2,
+        "other": 2
+      }
+    },
+    "wellness \u00d7 organic": {
+      "n": 19,
+      "sentiment": {
+        "neutral": 7,
+        "positive": 12
+      },
+      "tags": {
+        "purchase_intent": 5,
+        "question": 7,
+        "praise": 10,
+        "recipe_request": 1,
+        "other": 3
+      }
+    },
+    "wellness \u00d7 gifted/affiliate": {
+      "n": 9,
+      "sentiment": {
+        "neutral": 5,
+        "positive": 4
+      },
+      "tags": {
+        "other": 4,
+        "praise": 3,
+        "purchase_intent": 1,
+        "question": 1,
+        "recipe_request": 1
+      }
+    },
+    "reset \u00d7 organic": {
+      "n": 8,
+      "sentiment": {
+        "positive": 8
+      },
+      "tags": {
+        "praise": 8
+      }
+    },
+    "cooking \u00d7 organic": {
+      "n": 5,
+      "sentiment": {
+        "positive": 4,
+        "negative": 1
+      },
+      "tags": {
+        "praise": 4,
+        "recipe_request": 2,
+        "question": 1
+      }
+    },
+    "cooking \u00d7 gifted/affiliate": {
+      "n": 2,
+      "sentiment": {
+        "positive": 1,
+        "neutral": 1
+      },
+      "tags": {
+        "praise": 1,
+        "other": 1
+      }
+    }
+  }
+}

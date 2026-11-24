@@ -24,6 +24,18 @@ const human = () => 8000 + Math.random() * 7000;
     }
   });
 
+  const APPEND = process.env.APPEND === '1' && fs.existsSync(out);
+  if (APPEND) {
+    const prev = JSON.parse(fs.readFileSync(out));
+    const have = new Set(prev.posts.filter(x => !x.login_wall).map(x => x.id));
+    prev.posts = prev.posts.filter(x => !extra.includes(x.id));
+    for (const code of extra) {
+      await sleep(human());
+      const rec = await readPost(p, handle, code); delete rec._more;
+      prev.posts.push(rec); console.error('instagram', code, rec.date, rec.likes, rec.source);
+    }
+    fs.writeFileSync(out, JSON.stringify(prev, null, 2)); await b.close(); return;
+  }
   await p.goto(`https://www.instagram.com/${handle}/`, { waitUntil: 'load' }).catch(() => {});
   await sleep(9000);
   const text = await p.evaluate(() => document.body.innerText);
@@ -70,8 +82,9 @@ async function readPost(p, handle, code) {
   const more = [...new Set((await p.$$eval('a', as => as.map(a => a.href)))
     .map(h => (h.match(/\/(?:p|reel)\/([\w-]+)/) || [])[1]).filter(c => c && c !== code))];
   const num = v => v == null ? null : /[KM]/i.test(v) ? Math.round(parseFloat(v) * (/M/i.test(v) ? 1e6 : 1e3)) : Number(v.replace(/,/g, ''));
+  if (!ogm) return Object.assign(await readEmbed(p, code), { login_wall: true, _more: more });
   return {
-    id: code, platform: 'instagram', url, http_status: r && r.status(),
+    id: code, platform: 'instagram', url, http_status: r && r.status(), source: 'post_page',
     date: times[0] || (ogm ? new Date(ogm[3] + ' 12:00 UTC').toISOString() : null),
     type: hasVideo ? 'reel' : hasNext ? 'carousel' : 'post',
     caption: ogm ? ogm[4] : null,
@@ -98,4 +111,28 @@ function parseComments(text, handle) {
     if (L[j] === 'Like') out.push({ author: user, age: L[i], text: body.join(' ') });
   }
   return out;
+}
+
+// Fallback when the post page shows only a login wall: the public embed page.
+// Gives caption, likes, comment count; date is derived from the media ID (its first 41 bits are ms since 2011-08-24).
+async function readEmbed(p, code) {
+  await sleep(human());
+  const r = await p.goto(`https://www.instagram.com/p/${code}/embed/captioned/`, { waitUntil: 'domcontentloaded' }).catch(() => null);
+  await sleep(5000);
+  const t = await p.evaluate(() => document.body.innerText);
+  const likes = (t.match(/([\d,]+) likes/) || [])[1]; const comments = (t.match(/View all ([\d,]+) comments/) || [])[1];
+  const cap = (t.split(/[\d,]+ likes\n/)[1] || '').replace(/^\s*[\w.]+\s*\n/, '').split(/\nView all|\nAdd a comment/)[0].trim();
+  return {
+    id: code, platform: 'instagram', url: `https://www.instagram.com/p/${code}/`, http_status: r && r.status(), source: 'embed',
+    date: dateFromShortcode(code), date_source: 'derived from media ID',
+    type: /Play|Watch on Instagram/.test(t) ? 'reel' : 'post',
+    caption: cap || null, likes: likes ? Number(likes.replace(/,/g, '')) : null, comments: comments ? Number(comments.replace(/,/g, '')) : null,
+    views: null, paid_partnership_label: /Paid partnership/i.test(t), top_comments: [],
+    missing_fields: ['views', 'reach', 'saves', 'shares', 'comment text (post page was login-walled; embed shows count only)'],
+  };
+}
+function dateFromShortcode(code) {
+  const A = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_';
+  let id = 0n; for (const ch of code.slice(0, 11)) id = id * 64n + BigInt(A.indexOf(ch));
+  return new Date(Number(id >> 23n) + 1314220021721).toISOString();
 }
